@@ -34,6 +34,7 @@ int main(){
     cin >> number;
     
     
+    
     int gear = number/10000000;
     cout <<"Fahsai: I think you may be "<<"GEAR " <<gear-12 <<". I have a free movie ticket for you.\n";
     cout <<"Fahsai: Let's go to the cinema together!!!\n";
